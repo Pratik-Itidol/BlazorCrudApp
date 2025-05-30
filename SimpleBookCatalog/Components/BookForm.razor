@@ -1,0 +1,114 @@
+﻿@inject IBookRepository bookRepository
+
+@if(bookdto is not null)
+{
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+                <div class="card shadow-lg border-0 rounded-lg">
+                    <div class="card-header bg-primary text-white text-center py-4">
+                        <h3 class="mb-0">
+                            <i class="fas fa-book me-2"></i>@formtitle
+                        </h3>
+                    </div>
+                    <div class="card-body p-4">
+                        <EditForm method="post" Enhance="true" FormName="AddOrUpdateBookForm" OnValidSubmit="AddOrUpdateBooks" Model="bookdto" autocomplete="off">
+
+                            @if(IsEditMode)
+                            {
+                                <input type="hidden" name="bookdto.BookId" value="@bookdto.BookId" />                       
+                            }
+
+                            <div class="form-floating mb-4">
+                                <InputText id="title" @bind-Value="bookdto.Title" class="form-control shadow-none" placeholder="Enter book title" />
+                                <label for="title">Title</label>
+                                <ValidationMessage For="@(() => bookdto.Title)" />
+                            </div>
+
+                            <div class="form-floating mb-4">
+                                <InputText id="author" @bind-Value="bookdto.Author" class="form-control shadow-none" placeholder="Enter author name" />
+                                <label for="author">Author</label>
+                                <ValidationMessage For="@(() => bookdto.Author)" />
+                            </div>
+
+                            <div class="form-floating mb-4">
+                                <InputDate id="date" @bind-Value="bookdto.PublicationDate" class="form-control shadow-none" />
+                                <label for="date">Publication Date</label>
+                                <ValidationMessage For="@(() => bookdto.PublicationDate)" />
+                            </div>
+
+                            <div class="form-floating mb-4">
+                                <InputSelect id="category" @bind-Value="bookdto.Category" class="form-control shadow-none">
+                                    <option value="0">Select Category</option>
+                                    @foreach (var category in Enum.GetValues(typeof(Category)))
+                                    {
+                                        <option value="@(category)">@category.ToString()</option>
+                                    }
+                                </InputSelect>
+                                <label for="category">Category</label>
+                                <ValidationMessage For="@(() => bookdto.Category)" />
+                            </div>
+
+                            <div class="d-flex gap-2">
+                                <button type="submit" class="btn btn-primary btn-lg flex-grow-1">
+
+                                    @if(IsEditMode)
+                                    {
+                                        <i class="fas fa-edit me-2"></i>
+                                       
+                                    }
+                                    else
+                                    {
+                                        <i class="fas fa-save me-2"></i>                                       
+                                    }
+                                    @button
+                                </button>
+                                <a href="/" class="btn btn-secondary btn-lg">
+                                    <i class="fas fa-arrow-left me-2"></i>Back to List
+                                </a>
+                            </div>
+                            <DataAnnotationsValidator />
+                        </EditForm>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code 
+{
+    [Parameter]
+    public bool IsEditMode { get; set; } = false;
+
+    [Parameter]
+    public string Bookid { get; set; }
+
+    [Parameter]
+    public EventCallback<BookDTO> OnValidBookSubmit { get; set; }
+
+    [SupplyParameterFromForm]
+    public BookDTO bookdto { get; set; }
+
+    private string formtitle => IsEditMode ? $"Update Book" : $"Add New Book";
+
+    private string button => IsEditMode ? $"UPDATE" : $"SAVE";
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (IsEditMode)
+        {
+            var id = Guid.Parse(Bookid);
+            bookdto ??= await bookRepository.GetByIdAsync(id);
+        }
+        else
+        {
+            bookdto ??= new();
+        }
+    }
+
+    private async Task AddOrUpdateBooks()
+    {
+        await OnValidBookSubmit.InvokeAsync(bookdto);
+    }
+}

@@ -1,0 +1,11 @@
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\bin\Debug\net9.0\SimpleBookCatalog.Domain.deps.json
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\bin\Debug\net9.0\SimpleBookCatalog.Domain.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\bin\Debug\net9.0\SimpleBookCatalog.Domain.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\SimpleBookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\SimpleBookCatalog.Domain.AssemblyInfoInputs.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\SimpleBookCatalog.Domain.AssemblyInfo.cs
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\SimpleBookCatalog.Domain.csproj.CoreCompileInputs.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\SimpleBookCatalog.Domain.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\refint\SimpleBookCatalog.Domain.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\SimpleBookCatalog.Domain.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Domain\obj\Debug\net9.0\ref\SimpleBookCatalog.Domain.dll

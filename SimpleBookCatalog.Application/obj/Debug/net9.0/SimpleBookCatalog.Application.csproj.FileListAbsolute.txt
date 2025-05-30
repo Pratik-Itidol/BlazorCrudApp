@@ -1,0 +1,15 @@
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net9.0\SimpleBookCatalog.Application.deps.json
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net9.0\SimpleBookCatalog.Application.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net9.0\SimpleBookCatalog.Application.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net9.0\SimpleBookCatalog.Domain.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\bin\Debug\net9.0\SimpleBookCatalog.Domain.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.csproj.AssemblyReference.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.AssemblyInfoInputs.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.AssemblyInfo.cs
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.csproj.CoreCompileInputs.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBo.1B9AC495.Up2Date
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\refint\SimpleBookCatalog.Application.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\SimpleBookCatalog.Application.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Application\obj\Debug\net9.0\ref\SimpleBookCatalog.Application.dll

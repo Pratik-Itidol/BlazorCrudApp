@@ -1,0 +1,17 @@
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Infrastructure.deps.json
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Infrastructure.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Infrastructure.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Application.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Domain.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Application.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\bin\Debug\net9.0\SimpleBookCatalog.Domain.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.csproj.AssemblyReference.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.AssemblyInfoInputs.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.AssemblyInfo.cs
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.csproj.CoreCompileInputs.cache
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBo.2A85FF8A.Up2Date
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\refint\SimpleBookCatalog.Infrastructure.dll
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\SimpleBookCatalog.Infrastructure.pdb
+F:\PSona\B\BlazoAppCrud\SimpleBookCatalog\SimpleBookCatalog.Infrastructure\obj\Debug\net9.0\ref\SimpleBookCatalog.Infrastructure.dll

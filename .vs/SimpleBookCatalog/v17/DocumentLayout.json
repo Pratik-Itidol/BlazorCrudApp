@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EEF7-7B9A-41F5-8882-ADCA62E73028}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EEF7-7B9A-41F5-8882-ADCA62E73028}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|solutionrelative:simplebookcatalog.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog\\components\\deleteconfirm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\deleteconfirm.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EEF7-7B9A-41F5-8882-ADCA62E73028}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EEF7-7B9A-41F5-8882-ADCA62E73028}|SimpleBookCatalog.Infrastructure\\SimpleBookCatalog.Infrastructure.csproj|solutionrelative:simplebookcatalog.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\pages\\addnew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog\\components\\bookform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\bookform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog\\components\\pages\\updatebook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\pages\\updatebook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog\\components\\pages\\getall.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08099373-0CB0-465A-B3D2-14176437A79D}|SimpleBookCatalog\\SimpleBookCatalog.csproj|solutionrelative:simplebookcatalog\\components\\pages\\getall.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD0062-AA00-4A09-8D0E-8A70600C5EFD}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD0062-AA00-4A09-8D0E-8A70600C5EFD}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|solutionrelative:simplebookcatalog.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD0062-AA00-4A09-8D0E-8A70600C5EFD}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|f:\\psona\\b\\blazoappcrud\\simplebookcatalog\\simplebookcatalog.domain\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD0062-AA00-4A09-8D0E-8A70600C5EFD}|SimpleBookCatalog.Domain\\SimpleBookCatalog.Domain.csproj|solutionrelative:simplebookcatalog.domain\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:57:49.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteConfirm.razor",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\DeleteConfirm.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\DeleteConfirm.razor",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\DeleteConfirm.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\DeleteConfirm.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T10:15:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAll.razor",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\Pages\\GetAll.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\GetAll.razor",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\Pages\\GetAll.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\GetAll.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T09:26:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateBook.razor",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\Pages\\UpdateBook.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\UpdateBook.razor",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\Pages\\UpdateBook.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\UpdateBook.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:31:37.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookForm.razor",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\BookForm.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\BookForm.razor",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\BookForm.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\BookForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T06:04:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNew.razor",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "RelativeDocumentMoniker": "SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "RelativeToolTip": "SimpleBookCatalog\\Components\\Pages\\AddNew.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T13:37:57.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:41:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Domain\\DTO\\BookDTO.cs",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Domain\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:38:00.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "ToolTip": "F:\\PSona\\B\\BlazoAppCrud\\SimpleBookCatalog\\SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "SimpleBookCatalog.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:40:40.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

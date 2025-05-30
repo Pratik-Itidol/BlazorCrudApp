@@ -1,0 +1,95 @@
+﻿@page "/"
+@inject IBookRepository bookRepository
+@rendermode InteractiveServer
+
+<PageTitle>
+    BookList
+</PageTitle>
+
+<div class="justify-content-center"> 
+    <h1 class="text-sm-center">List of Books</h1>   
+    <div class="col-6 offset-3 ">
+        @if(books is null)
+        {
+            <div class="book-item">
+                Loading Books, Please wait....
+            </div>
+        }
+        else if(books.Any())
+        {
+            @foreach(var book in books)
+            {
+                <div class="book-item mb-4 ms-auto">
+                    <div class="card border-0 shadow-lg rounded-4 overflow-hidden hover-shadow transition">
+                        <div class="card-body bg-light">
+                            <h5 class="card-title text-primary fw-bold mb-2">@book.Title</h5>
+                            <div class="mb-2">
+                                <span class="d-block text-secondary">
+                                    <strong>Author:</strong> @book.Author
+                                </span>
+                                <span class="d-block text-secondary">
+                                    <strong>Published:</strong> @book.PublicationDate.ToString()
+                                </span>
+                                <span class="d-block mt-2">
+                                    <span class="badge bg-gradient bg-info text-dark px-3 py-2 fs-6">@book.Category</span>
+                                </span>
+                            </div>
+                            <div class=" d-flex justify-content-end actions">
+                                <a class="btn btn-warning btn-sm me-2" href="@($"/edit/{book.BookId}")">
+                                    <i class="fas fa-edit"></i> Update
+                                </a>
+                                <a class="btn btn-danger btn-sm" href="@($"/delete/{book.BookId}")">
+                                    <i class="fa fa-trash" aria-hidden="true"></i> DELETE
+                                </a>                                
+                            </div>        
+                        </div> 
+                    </div>
+                </div>
+            }
+
+        }
+        else
+        {
+            <div class="book-item">
+                Books are not available
+            </div>
+        }
+    </div>
+
+    <div class="d-flex justify-content-center my-4">
+        <a href="/add-new" class="btn btn-primary btn-lg">
+            <i class="fa-solid fa-book me-2"></i>Add New Books
+        </a>
+    </div>
+</div>
+
+
+<style>
+    .hover-shadow:hover {
+    box-shadow: 0 0.75rem 1.25rem rgba(0, 0, 0, 0.15) !important;
+    transform: translateY(-2px);
+    transition: all 0.2s ease-in-out;
+    }   
+
+    .bg-info{
+    --bs-bg-opacity: 1;
+    background-color: #f1dc97 !important;
+    }
+
+    .text-dark{
+    --bs-text-opacity: 1;
+    color: #80001a !important;
+    }
+</style>
+
+
+@code 
+{
+    private List<BookDTO>? books;
+
+    protected override async Task OnInitializedAsync()
+    {   
+        books = await bookRepository.GetAllAsync();
+    }
+
+}
